@@ -1,125 +1,118 @@
-# [cite_start]Junyuan XUE [cite: 2]
-xue.junyuan@u.nus.edu | [cite_start]+65 9053-2560 [cite: 2]
+# Junyuan XUE
+xue.junyuan@u.nus.edu | +65 9053-2560
 
-## [cite_start]Education [cite: 1]
+## Education
 
-[cite_start]**National University of Singapore, Singapore** [cite: 3]
-[cite_start]*Doctor of Philosophy in Integrative Science and Engineering (ISEP)* [cite: 5]
-[cite_start]August 2023 - July 2027 (expected) [cite: 4]
-* [cite_start]GPA (overall): 4.82 / 5.00. [cite: 6]
-* [cite_start]President's Graduate Fellowship (PGF) recipient (Aug. 2023-Jul. 2027). [cite: 7]
-* [cite_start]Supervised by Prof. LEE, Tong Heng and Dr. LIANG, Wenyu from Department of Electrical and Computer Engineering at NUS. [cite: 8]
+**National University of Singapore, Singapore**
+*Doctor of Philosophy in Integrative Science and Engineering (ISEP)*
+August 2023 - July 2027 (expected)
+* GPA (overall): 4.82 / 5.00.
+* President's Graduate Fellowship (PGF) recipient (Aug. 2023-Jul. 2027).
+* Supervised by Prof. LEE, Tong Heng and Dr. LIANG, Wenyu from Department of Electrical and Computer Engineering at NUS.
 
-[cite_start]**National University of Singapore, Singapore** [cite: 9]
-[cite_start]*Master of Engineering (by Research) in Mechanical Engineering* [cite: 10]
-[cite_start]August 2021 - July 2023 [cite: 12]
-* [cite_start]GPA (overall): 4.83/5.00. [cite: 11]
-* Supervised by Assoc. [cite_start]Prof. CHEW, Chee Meng from Department of Mechanical Engineering at NUS. [cite: 13]
+**National University of Singapore, Singapore**
+*Master of Engineering (by Research) in Mechanical Engineering*
+August 2021 - July 2023
+* GPA (overall): 4.83/5.00.
+* Supervised by Assoc. Prof. CHEW, Chee Meng from Department of Mechanical Engineering at NUS.
 
-[cite_start]**Tohoku University, Sendai, Japan** [cite: 14]
-[cite_start]*Bachelor of Engineering in Mechanical Engineering* [cite: 15]
-[cite_start]October 2017 - March 2021 [cite: 16]
-* GPA (overall): 3.50/4.00; Qualification of early graduation (3 years); [cite_start]Graduated within 3.5 years. [cite: 17]
-* [cite_start]Japanese Government (MEXT) Scholarship recipient (Oct. 2017 Graduation). [cite: 18]
-* [cite_start]Entered Hirata, Weng, Salazar Laboratory/Tamura Laboratory since Oct. 2019. [cite: 19]
+**Tohoku University, Sendai, Japan**
+*Bachelor of Engineering in Mechanical Engineering*
+October 2017 - March 2021
+* GPA (overall): 3.50/4.00; Qualification of early graduation (3 years); Graduated within 3.5 years.
+* Japanese Government (MEXT) Scholarship recipient (Oct. 2017 Graduation).
+* Entered Hirata, Weng, Salazar Laboratory/Tamura Laboratory since Oct. 2019.
 
-## [cite_start]Research Experiences [cite: 20]
+## Research Experiences
 
-[cite_start]**Game-theoretic Control for Human-Robot Interaction** [cite: 21] 
-[cite_start]*October 2025 - February 2026* [cite: 22, 23]
-*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; [cite_start]Dr. Liang, Wenyu [cite: 24, 25, 26]
-* [cite_start]Research objective: to control with human interpretation for physical human-robot interaction. [cite: 27]
-* [cite_start]Design an MPC-based impedance controller with interaction environment estimation. [cite: 28]
-* [cite_start]Formulate the interaction as a game and predict human actions via their estimated cost and rationality. [cite: 29]
-* [cite_start]Train and fine-tune an inverse RL agent offline and online to estimate the human's cost. [cite: 30]
+**Game-theoretic Control for Human-Robot Interaction** *October 2025 - February 2026*
+*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; Dr. Liang, Wenyu
+* Research objective: to control with human interpretation for physical human-robot interaction.
+* Design an MPC-based impedance controller with interaction environment estimation.
+* Formulate the interaction as a game and predict human actions via their estimated cost and rationality.
+* Train and fine-tune an inverse RL agent offline and online to estimate the human's cost.
 
-[cite_start]**Knowledge-based Control for Human-Robot Interaction** [cite: 32] 
-[cite_start]*January 2025 - September 2025* [cite: 31, 32]
-*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; [cite_start]Dr. Liang, Wenyu [cite: 32, 33]
-* [cite_start]Research objective: to achieve safe and personalized control for physical human-robot interaction. [cite: 34]
-* [cite_start]Utilize low-level model predictive control to comply with safety and task performance constraints. [cite: 35]
-* [cite_start]Fine-tune a high-level controller parameter tuner upon a pretrained Vision-Language Model. [cite: 36]
-* [cite_start]Design a model predictive control-based mid-level regulator to constrain the parameter tuner output. [cite: 37]
-* [cite_start]Train a biomimetic danger identification mechanism to promptly react to danger and bypass parameter tuner. [cite: 38]
+**Knowledge-based Control for Human-Robot Interaction** *January 2025 - September 2025*
+*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; Dr. Liang, Wenyu
+* Research objective: to achieve safe and personalized control for physical human-robot interaction.
+* Utilize low-level model predictive control to comply with safety and task performance constraints.
+* Fine-tune a high-level controller parameter tuner upon a pretrained Vision-Language Model.
+* Design a model predictive control-based mid-level regulator to constrain the parameter tuner output.
+* Train a biomimetic danger identification mechanism to promptly react to danger and bypass parameter tuner.
 
-[cite_start]**Predefined-time Stable Robotic Interaction Control** [cite: 39] 
-[cite_start]*April 2024 - December 2024* [cite: 40]
-*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; [cite_start]Dr. Liang, Wenyu [cite: 41, 42]
-* [cite_start]Research objective: to control the robot to converge within the predefined time while ensuing safety. [cite: 43]
-* [cite_start]Propose a safe physical interaction control framework with model predictive control. [cite: 44]
-* [cite_start]Modify the model predictive control framework to achieve the predefined time convergence. [cite: 45]
-* [cite_start]Ensure the constraint compliance with the proposed time scaling for the model predictive control constraints. [cite: 46]
+**Predefined-time Stable Robotic Interaction Control** *April 2024 - December 2024*
+*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; Dr. Liang, Wenyu
+* Research objective: to control the robot to converge within the predefined time while ensuing safety.
+* Propose a safe physical interaction control framework with model predictive control.
+* Modify the model predictive control framework to achieve the predefined time convergence.
+* Ensure the constraint compliance with the proposed time scaling for the model predictive control constraints.
 
-[cite_start]**Safety-based Physical Robotic Interaction Control** [cite: 47] 
-[cite_start]*October 2023 - March 2024* [cite: 48]
-*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; [cite_start]Dr. Liang, Wenyu [cite: 49, 50]
-* [cite_start]Research objective: to ensure safety during physical robotic interaction with unknown complex environments. [cite: 51]
-* [cite_start]Design an adaptive environment estimator based on the nonlinear Hunt-Crossley model. [cite: 52]
-* [cite_start]Achieves smooth and passive switching between impedance models based on the real-time safety situation. [cite: 53]
-* [cite_start]Incorporates the impedance model inside a model predictive control framework for constraint compliance. [cite: 54]
+**Safety-based Physical Robotic Interaction Control** *October 2023 - March 2024*
+*Advisors:* Prof. Lee, Tong Heng; Dr. Wu, Yan; Dr. Liang, Wenyu
+* Research objective: to ensure safety during physical robotic interaction with unknown complex environments.
+* Design an adaptive environment estimator based on the nonlinear Hunt-Crossley model.
+* Achieves smooth and passive switching between impedance models based on the real-time safety situation.
+* Incorporates the impedance model inside a model predictive control framework for constraint compliance.
 
-[cite_start]**Tactile Manipulation** [cite: 55] 
-[cite_start]*October 2022 - May 2023* [cite: 56]
-*Advisors:* Prof. Chew, Chee Meng; Dr. Wu, Yan; [cite_start]Dr. Liang, Wenyu [cite: 57, 58]
-* [cite_start]Research objective: to accomplish tasks with tool-mounted manipulator and tactile sensors on the end effector. [cite: 59]
-* [cite_start]Set up a system that includes the manipulator, the end effector with tactile sensors, the tool, and the environment to interact with. [cite: 60]
-* [cite_start]Trained network between tactile sensor data and ground truth of forces on the tool end. [cite: 61]
+**Tactile Manipulation** *October 2022 - May 2023*
+*Advisors:* Prof. Chew, Chee Meng; Dr. Wu, Yan; Dr. Liang, Wenyu
+* Research objective: to accomplish tasks with tool-mounted manipulator and tactile sensors on the end effector.
+* Set up a system that includes the manipulator, the end effector with tactile sensors, the tool, and the environment to interact with.
+* Trained network between tactile sensor data and ground truth of forces on the tool end.
 
-[cite_start]**Manipulator Forming Stability Control** [cite: 62] 
-[cite_start]*August 2021 - October 2022* [cite: 62, 63]
-*Advisors:* Prof. Chew, Chee Meng; [cite_start]Dr. Ko, Jeong Hoon [cite: 62, 64]
-* [cite_start]Research objective: to control the manipulator and eliminate chatter during incremental sheet forming. [cite: 64]
-* [cite_start]Designed manipulator trajectory and wrote program for incremental sheet forming, or ISF. [cite: 65]
-* [cite_start]Tuned control and environment parameters in experiments, which will be for machine learning in the future. [cite: 66]
-* [cite_start]Proposed chatter prediction scheme through impedance control with machining force prediction model. [cite: 67]
+**Manipulator Forming Stability Control** *August 2021 - October 2022*
+*Advisors:* Prof. Chew, Chee Meng; Dr. Ko, Jeong Hoon
+* Research objective: to control the manipulator and eliminate chatter during incremental sheet forming.
+* Designed manipulator trajectory and wrote program for incremental sheet forming, or ISF.
+* Tuned control and environment parameters in experiments, which will be for machine learning in the future.
+* Proposed chatter prediction scheme through impedance control with machining force prediction model.
 
-[cite_start]**Shirts Production Manipulation** [cite: 68] 
-[cite_start]*September 2020 - March 2021* [cite: 69]
-*Advisors:* Prof. Hirata, Yasuhisa; [cite_start]Prof. Salazar, Jose [cite: 70, 71]
-* [cite_start]Research objective: to move the shirt onto and out from the printing panel with two manipulators. [cite: 71]
-* [cite_start]Set up robot manipulators for actuation, including connecting wires and constructing the workspace. [cite: 72]
-* [cite_start]Constructed robot simulators according to laboratory environment of manipulators in OpenGL. [cite: 73]
-* [cite_start]Designed trajectories of two manipulators for handling the shirt based on visual feedback of shirt meshes. [cite: 74]
+**Shirts Production Manipulation** *September 2020 - March 2021*
+*Advisors:* Prof. Hirata, Yasuhisa; Prof. Salazar, Jose
+* Research objective: to move the shirt onto and out from the printing panel with two manipulators.
+* Set up robot manipulators for actuation, including connecting wires and constructing the workspace.
+* Constructed robot simulators according to laboratory environment of manipulators in OpenGL.
+* Designed trajectories of two manipulators for handling the shirt based on visual feedback of shirt meshes.
 
-## [cite_start]Publications [cite: 75]
+## Publications
 
-* [1] J. Xue, W. Liang, Y. Wu, and T. H. Lee, "Model predictive variable impedance control towards safe robotic interaction in unknown disturbance-rich environments," Robotics and Autonomous Systems, vol. 189, p. [cite_start]104961, Jul. 2025, doi: 10.1016/j.robot.2025.104961. [cite: 76, 77]
-* [cite_start][2] J. Xue, W. Liang, Y. Xu, Y. Wu and T. H. Lee, "Learning-Based Predictive Impedance Control Towards Safe Predefined-Time Physical Robotic Interaction," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 18543-18550, doi: 10.1109/IROS60139.2025.11246143. [cite: 78]
-* [cite_start][3] Y. Xu, W. Liang, J. Xue, Y. Wu and T. H. Lee, "Sequen-Sync Contact Force/Torque Control Using Nested Fast Terminal Sliding Mode Control Approach," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 6876-6883, doi: 10.1109/IROS60139.2025.11247708. [cite: 79]
-* [4] X. Zhao, W. Liang, J. Xue and Y. Wu, "Harmonising Safety Paradigms: Energy-Aware Control of Active Response and Passive Compliance for Safety-Critical Robotic Tasks," IEEE Robotics and Automation Letters, vol. 11, no. [cite_start]2, pp. 1834-1841, Feb. 2026, doi: 10.1109/LRA.2025.3643285. [cite: 80, 81]
-* [5] J. Xue, W. Liang, Y. Xu, X. Zhao, Y. Wu and T. H. Lee, "Event-Triggered Predefined-Time-Synchronized Model Predictive Selective Impedance Control," IEEE Transactions on Cybernetics. [cite_start][Accepted] [cite: 82, 83]
-* [6] J. Xue, W. Liang, Y. Xu, X. Zhao, Y. Wu and T. H. Lee, "Learning-Based Game-Theoretic Impedance Control for Physical Human-Robot Interaction with Mixed Cost and Bounded Rationality," 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [cite_start][Submitted] [cite: 84, 85]
-* [7] J. Xue, W. Liang, Y. Xu, Y. Wu, and T. H. Lee, "LLM-in-the-Loop Variable Impedance Control: Towards Safe Generalized and Personalized Robotic Interactions," 2026 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM). [cite_start][Submitted] [cite: 86, 87]
-* [8] J. Xue, W. Liang, Y. Xu, Y. Wu, S. S. Ge, and T. H. Lee, "Knowledge Model Predictive Control Towards Safe Personalized Physical Human-Robot Interaction," IEEE Transactions on Robotics. [cite_start][Submitted] [cite: 88, 89]
+* [1] J. Xue, W. Liang, Y. Wu, and T. H. Lee, "Model predictive variable impedance control towards safe robotic interaction in unknown disturbance-rich environments," Robotics and Autonomous Systems, vol. 189, p. 104961, Jul. 2025, doi: 10.1016/j.robot.2025.104961.
+* [2] J. Xue, W. Liang, Y. Xu, Y. Wu and T. H. Lee, "Learning-Based Predictive Impedance Control Towards Safe Predefined-Time Physical Robotic Interaction," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 18543-18550, doi: 10.1109/IROS60139.2025.11246143.
+* [3] Y. Xu, W. Liang, J. Xue, Y. Wu and T. H. Lee, "Sequen-Sync Contact Force/Torque Control Using Nested Fast Terminal Sliding Mode Control Approach," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 6876-6883, doi: 10.1109/IROS60139.2025.11247708.
+* [4] X. Zhao, W. Liang, J. Xue and Y. Wu, "Harmonising Safety Paradigms: Energy-Aware Control of Active Response and Passive Compliance for Safety-Critical Robotic Tasks," IEEE Robotics and Automation Letters, vol. 11, no. 2, pp. 1834-1841, Feb. 2026, doi: 10.1109/LRA.2025.3643285.
+* [5] J. Xue, W. Liang, Y. Xu, X. Zhao, Y. Wu and T. H. Lee, "Event-Triggered Predefined-Time-Synchronized Model Predictive Selective Impedance Control," IEEE Transactions on Cybernetics. [Accepted]
+* [6] J. Xue, W. Liang, Y. Xu, X. Zhao, Y. Wu and T. H. Lee, "Learning-Based Game-Theoretic Impedance Control for Physical Human-Robot Interaction with Mixed Cost and Bounded Rationality," 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [Submitted]
+* [7] J. Xue, W. Liang, Y. Xu, Y. Wu, and T. H. Lee, "LLM-in-the-Loop Variable Impedance Control: Towards Safe Generalized and Personalized Robotic Interactions," 2026 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM). [Submitted]
+* [8] J. Xue, W. Liang, Y. Xu, Y. Wu, S. S. Ge, and T. H. Lee, "Knowledge Model Predictive Control Towards Safe Personalized Physical Human-Robot Interaction," IEEE Transactions on Robotics. [Submitted]
 
-## [cite_start]Work Experiences [cite: 90]
+## Work Experiences
 
-**National University of Singapore** | [cite_start]Graduate Assistant [cite: 91, 92]
-[cite_start]*January 2022 - Now* [cite: 93]
-* [cite_start]Prepared and instructed experiments for three different modules. [cite: 94]
-* [cite_start]Conducted consultation and tutorial sessions after lectures for undergraduate and graduate students. [cite: 94]
+**National University of Singapore** | Graduate Assistant
+*January 2022 - Now*
+* Prepared and instructed experiments for three different modules.
+* Conducted consultation and tutorial sessions after lectures for undergraduate and graduate students.
 
-**Institute for Infocomm Research** | [cite_start]Student Intern [cite: 95, 96]
-[cite_start]*October 2022 - Now* [cite: 97]
-* [cite_start]Conducted experiments on safe physical robot interaction with unknown environments or humans. [cite: 98]
-* [cite_start]Visualized research works and projects as demonstrations for visiting universities and companies. [cite: 99]
+**Institute for Infocomm Research** | Student Intern
+*October 2022 - Now*
+* Conducted experiments on safe physical robot interaction with unknown environments or humans.
+* Visualized research works and projects as demonstrations for visiting universities and companies.
 
-**Singapore Institute of Manufacturing Technology** | [cite_start]Intern [cite: 100]
-[cite_start]*August 2021 - October 2022* [cite: 100, 103]
-* [cite_start]Established robot control platform and prepare trajectory planning program for robotic manufacturing. [cite: 100]
-* [cite_start]Conducted manufacturing experiments for chatter prediction and prevention. [cite: 101]
+**Singapore Institute of Manufacturing Technology** | Intern
+*August 2021 - October 2022*
+* Established robot control platform and prepare trajectory planning program for robotic manufacturing.
+* Conducted manufacturing experiments for chatter prediction and prevention.
 
-**Sendai Invention and Innovation Club** | [cite_start]Teaching Assistant [cite: 102, 104]
-[cite_start]*April 2018 - March 2019* [cite: 104]
-* [cite_start]Delivered science and engineering lectures in English for Japanese school kids. [cite: 105]
-* [cite_start]Helped solving technical problems during inventions, such as connecting electric circuits for toy robots. [cite: 106]
+**Sendai Invention and Innovation Club** | Teaching Assistant
+*April 2018 - March 2019*
+* Delivered science and engineering lectures in English for Japanese school kids.
+* Helped solving technical problems during inventions, such as connecting electric circuits for toy robots.
 
-## [cite_start]Skills & Others [cite: 107]
+## Skills & Others
 
-* [cite_start]**Robotics:** ROS, ROS2, KUKA, UR, ABB. [cite: 108]
-* [cite_start]**Machine learning:** RL and algorithms, neural networks, large models. [cite: 109]
-* [cite_start]**Control:** Model Predictive Control, Sliding Mode Control, other fundamentals such as PID, LQR. [cite: 110]
-* [cite_start]**Programming Languages:** Matlab, Python, C++. [cite: 111]
-* [cite_start]**Mechanical Engineering:** 3D-CAD, Industrial Processing, 3D Printing. [cite: 112]
-* [cite_start]**Languages:** English (Proficient), Mandarin Chinese (Native), Japanese (Intermediate). [cite: 113]
-* [cite_start]**Hobbies:** Cycling, Jogging, and Photography. [cite: 114]
+* **Robotics:** ROS, ROS2, KUKA, UR, ABB.
+* **Machine learning:** RL and algorithms, neural networks, large models.
+* **Control:** Model Predictive Control, Sliding Mode Control, other fundamentals such as PID, LQR.
+* **Programming Languages:** Matlab, Python, C++.
+* **Mechanical Engineering:** 3D-CAD, Industrial Processing, 3D Printing.
+* **Languages:** English (Proficient), Mandarin Chinese (Native), Japanese (Intermediate).
+* **Hobbies:** Cycling, Jogging, and Photography.
